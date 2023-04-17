@@ -59,11 +59,7 @@ if (codeWorking) {
   }
 }
 ```
-``` C++
-if (problem.importance < High) {
-  relax();
-}
-```
+
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio)
@@ -94,3 +90,14 @@ if (problem.importance < High) {
 </p>
 
 [![](https://visitcount.itsvg.in/api?id=Muab99&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+
+
+``` C++
+if (problem.importance < High) {
+  relax();
+}
+```
+Try to evaluate the problem that's currently bothering you. In most cases, it doesn't deserve all the attention you give to it.
+
