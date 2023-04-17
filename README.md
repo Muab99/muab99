@@ -82,7 +82,7 @@ if (codeWorking) {
 ### Thanks for Visiting my GitHub Profile!
 ---
 <p align="center">
-<img src="https://github.com/muab99/muab99/blob/output/github-contribution-grid-snake.svg">
+<img src="https://github.com/Muab99/muab99/blob/main/github-contribution-grid-snake.svg">
 </p>
 [![](https://visitcount.itsvg.in/api?id=Muab99&icon=2&color=12)](https://visitcount.itsvg.in)
 
