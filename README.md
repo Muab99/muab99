@@ -10,10 +10,10 @@
 
 ## 👨‍💻
 ### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
-[Visit Count Pro](https://visitcount.itsvg.in) is More than just a Visit Counter. Best Customization, Realtime Analytics, Best No-Code Solution, Works everywhere, all for free !
+[Visit Count Pro](https://visitcount.itsvg.in) Visit Counter!
 
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
-[GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
+[GPRM](https://gprm.itsvg.in) Profile Generator!
 
 ### <img src="https://github.com/Muab99/muab99/blob/main/dillinger.png" width="16px" />  Dillinger Markdown Edito
 [GPRM](https://dillinger.io/)  Dillinger Markdown Editor!
