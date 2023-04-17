@@ -59,7 +59,7 @@ if (codeWorking) {
   }
 }
 ```
-```
+``` C++
 if (problem.importance < High) {
   relax();
 }
