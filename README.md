@@ -15,7 +15,7 @@
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
 
-### <img src="https://dillinger.itsvg.in/logo.png" width="16px" />  Dillinger Markdown Edito
+### <img src="https://github.com/Muab99/muab99/blob/main/dillinger.png" width="16px" />  Dillinger Markdown Edito
 [GPRM](https://dillinger.io/)  Dillinger Markdown Editor!
 
 
