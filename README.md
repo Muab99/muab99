@@ -77,14 +77,11 @@ if (codeWorking) {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Random Dev Meme  😂 
-![]<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://rm.up.railway.app/" width="512px"/>
 
 ### Thanks for Visiting my GitHub Profile!
 ---
 <p align="center">
 <img src="https://github.com/Muab99/muab99/blob/main/github-contribution-grid-snake.svg">
 </p>
-[![](https://visitcount.itsvg.in/api?id=Muab99&icon=2&color=12)](https://visitcount.itsvg.in)
-
-
-
+[![](https://visitcount.itsvg.in/api?id=Muab99&icon=2&color=12&&pretty=true)](https://visitcount.itsvg.in)
