@@ -2,7 +2,11 @@
 </h1>
 <p align="center"> ⚡</p>
 <p align="center">  </p>
-
+<p align="center">
+ <a href="LÄNK" target="_blank"><img alt="" src="https://img.shields.io/badge/Profile-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="LÄNK" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="LÄNK" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="LÄNK" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ## 👨‍💻
 ### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
@@ -10,7 +14,6 @@
 
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
 [GPRM](https://gprm.itsvg.in) is the Best Profile Generator, Create your perfect GitHub Profile ReadMe in the best possible way. Lots of features and tools included, all for free !
-
 
 
 ## Tech Stack 💻
@@ -64,7 +67,7 @@ if (codeWorking) {
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
  
 ## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=Muab99&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Muab99&show_icons=true&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true)
 ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muab99&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## GitHub Streaks 🔥
@@ -74,7 +77,14 @@ if (codeWorking) {
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### Random Dev Meme  😂 
-<img src="https://rm.up.railway.app/" width="512px"/>
+![]<img src="https://rm.up.railway.app/" width="512px"/>
 
 ### Thanks for Visiting my GitHub Profile!
+---
+<p align="center">
+<img src="https://github.com/muab99/muab99/blob/output/github-contribution-grid-snake.svg">
+</p>
 [![](https://visitcount.itsvg.in/api?id=Muab99&icon=2&color=12)](https://visitcount.itsvg.in)
+
+
+
