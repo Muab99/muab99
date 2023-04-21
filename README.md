@@ -9,11 +9,12 @@
 <a href="LÄNK" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
 ## 👨‍💻
-### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
+
+<!-- ### <img src="https://visitcount.itsvg.in/logo.png" width="16px" />  Visit Count Pro
 [Visit Count Pro](https://visitcount.itsvg.in) Visit Counter!
 
 ### <img src="https://gprm.itsvg.in/logo.png" width="16px" />  GPRM : GitHub Profile ReadMe Maker
-[GPRM](https://gprm.itsvg.in) Profile Generator!
+[GPRM](https://gprm.itsvg.in) Profile Generator! -->
 
 ### <img src="https://github.com/Muab99/muab99/blob/main/dillinger.png" width="16px" />  Dillinger Markdown Edito
 [GPRM](https://dillinger.io/)  Dillinger Markdown Editor!
