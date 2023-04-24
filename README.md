@@ -81,8 +81,8 @@ if (codeWorking) {
 ### Random Dev Quote ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### Random Dev Meme  😂 
-<img src="https://rm.up.railway.app/" width="512px"/>
+<!--### Random Dev Meme  😂 
+<img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ### Thanks for Visiting my GitHub Profile!
 ---
